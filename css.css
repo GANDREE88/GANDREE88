@@ -1,4 +1,7 @@
 /* Кнопка выпадающего списка */
+.container {
+  min-width: 1200px;
+}
 .dropbtn {
   background-color: #3498DB;
   color: white;
